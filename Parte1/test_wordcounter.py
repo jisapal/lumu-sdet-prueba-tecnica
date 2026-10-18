@@ -56,7 +56,7 @@ escenarios = [
     {"id": "S02", "texto": "lumu lumu lumu lumu lumu illuminates illuminates attacks and adversaries\nlumu illuminates all attacks and adversaries", "palabras": 16, "caracteres": 116, "top": [('lumu', 6), ('illuminates', 3), ('attacks', 2)]},
     {"id": "S03", "texto": "Lumu lumu lumu lumu lumu Illuminates illuminates attacks AND adversaries\nlumu illuminates all attacks and adversaries", "palabras": 16, "caracteres": 116, "top": [('lumu', 6), ('illuminates', 3), ('attacks', 2)]},
     {"id": "S04", "texto": "Lumu, lumu lumu lumu lumu. Illuminates illuminates attacks AND adversaries!\nlumu illuminates all attacks and adversaries.", "palabras": 16, "caracteres": 120, "top": [('lumu', 6), ('illuminates', 3), ('attacks', 2)]},
-    {"id": "S05", "texto": "Lumu lumu lumu lumu lumu\nIlluminates illuminates\nattacks AND adversaries\nlumu illuminates\nall attacks and adversaries", "palabras": 16, "caracteres": 114, "top": [('lumu', 6), ('illuminates', 3), ('attacks', 2)]},
+    {"id": "S05", "texto": "Lumu lumu lumu lumu lumu\nIlluminates illuminates\nattacks AND adversaries\nlumu illuminates\nall attacks and adversaries", "palabras": 16, "caracteres": 113, "top": [('lumu', 6), ('illuminates', 3), ('attacks', 2)]},
     {"id": "S06", "texto": "...", "palabras": 0, "caracteres": 3, "top": []},
     {"id": "S07", "texto": ".... and all", "palabras": 2, "caracteres": 12, "top": [('all', 1)]},
     {"id": "S08", "texto": "😀😃😄", "palabras": 1, "caracteres": 6, "top": [('😀😃😄', 1)]},
