@@ -21,8 +21,6 @@ git clone <URL-DEL-REPOSITORIO>
 cd <carpeta-del-repositorio>/Parte1
 ```
 
-`requirements.txt` contiene `selenium==4.36.0`.
-
 ## Cómo ejecutar
 
 ```bash
