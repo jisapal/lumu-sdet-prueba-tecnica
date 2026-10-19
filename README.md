@@ -7,8 +7,8 @@ Autora: Juana Isabel Palmera Ortega
 | Parte | Qué contiene | Carpeta |
 |-------|--------------|---------|
 | 1 | Suite automatizada (Python + Selenium) que valida conteo de palabras, caracteres y top 3 de Keyword Density en wordcounter.net, con resumen de resultados | [Parte1](Parte1/) |
-| 2 | Reporte de fallos encontrados en wordcounter.net | [Parte2](Parte2/REPORTE.md) |
-| 3 | Reporte de UX: 3 problemas en un sitio público, con pasos para reproducirlos | [Parte3](Parte3/REPORTE.md) |
+| 2 | Reporte de fallos encontrados en wordcounter.net | [Parte2/REPORTE.md](Parte2/REPORTE.md) |
+| 3 | Reporte de UX: 3 problemas en https://www.colsubsidio.com/, con pasos para reproducirlos | [Parte3/REPORTE.md](Parte3/REPORTE.md) |
 | 4 | Contador de frecuencia de palabras con ordenamiento escrito a mano, histograma y explicación de complejidad | [Parte4](Parte4/) |
 
 Cada carpeta tiene su propio README (Partes 1 y 4) con instrucciones de ejecución.
