@@ -21,7 +21,7 @@ Al hacer scroll, las etiquetas de las tarjetas pasan sobre la barra fija. La bar
 7. Mirar la barra de pestañas mientras las tarjetas se deslizan.
 
 **Evidencia:**
-![Etiqueta NUEVA SEDE sobre la barra de pestañas](evidencias/problema1-etiquetas.mp4)
+[Etiqueta NUEVA SEDE sobre la barra de pestañas](evidencias/problema1-etiquetas.mp4)
 
 **Impacto en el usuario:**
 Las etiquetas en las tarjetas se superponen a las opciones que estan en la barra de las sedes. Las pestañas se leen mal y a pantalla se ve rota.
@@ -42,7 +42,7 @@ Estoy consultando sedes de natación. Cuando hago clic en “Conoce más” en u
 7. Observar la página de la sede: lista todos los deportes y el filtro por ‘Área’ está sin seleccionar.
 
 **Evidencia:**
-![Pierdes el contexto al abrir una sede](evidencias/problema2-contexto.mp4)
+[Pierdes el contexto al abrir una sede](evidencias/problema2-contexto.mp4)
 
 **Impacto en el usuario:**
 Pierdo el contexto: veo todos los deportes que se imparten en esa sede y tengo que volver a filtrar por natación
@@ -59,7 +59,7 @@ Al hacer clic en ‘Descúbrelas’, se abre una pestaña nueva con una direcci�
 4. Hacer clic en “Descúbrelas”.
 
 **Evidencia:** 
-![otra pestaña con otra URL](evidencias/problema3-otraURL.mp4)
+[otra pestaña con otra URL](evidencias/problema3-otraURL.mp4)
 
 **Impacto en el usuario:**
 El botón Atrás esta desactivado, y tengo que cerrar la pestaña o cambiar a la pestaña anterior si quiero ver la pagina principal de Colsubsidio.
